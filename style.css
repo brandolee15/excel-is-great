@@ -7,7 +7,7 @@ body {
 
 .grid-container1{
     display: grid;
-    grid-template-columns: 500px auto;
+    grid-template-columns: auto auto;
     padding: 10px;
 }
 .grid-container2{
